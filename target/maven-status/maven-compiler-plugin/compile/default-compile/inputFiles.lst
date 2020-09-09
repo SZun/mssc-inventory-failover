@@ -1,0 +1,5 @@
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/model/BeerInventoryDto.java
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/web/RouterConfig.java
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/web/InventoryHandler.java
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/SfgBreweryInventoryFailoverApplication.java
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-inventory-failover/src/main/java/guru/sfg/brewery/inventoryfailover/config/LocalDiscovery.java
